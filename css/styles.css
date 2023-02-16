@@ -75,6 +75,7 @@ main{
 #search{
     width: 45vw;
     border: none;
+    outline: none;
 }
 
 .search-btn{
